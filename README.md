@@ -1,3 +1,6 @@
+# DOWNLOAD THE MODELS FROM THIS LINK: https://www.dropbox.com/scl/fo/8z77zddt6c1iearscw7oi/ALcX7UVJ6Fc0hTjHnIHSXaY?rlkey=jrxwwoom0771xgg9bph6u6sg2&st=8fy8unaz&dl=0
+
+
 # Gender Detection ML Project
 
 A real-time gender detection system using deep learning and computer vision. This project can detect and classify faces as male or female in real-time using your webcam.
